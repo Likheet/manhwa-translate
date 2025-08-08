@@ -1,5 +1,5 @@
-import { executeScript, getCurrentTab, setExtensionIcon } from '../../utils/chromeApi';
-import { appConfig } from '../../utils/appConfig';
+import { executeScript, getCurrentTab, setExtensionIcon } from '../utils/chromeApi';
+import { appConfig } from '../utils/appConfig';
 
 const m = chrome.i18n.getMessage;
 const translatedPageMenuId = 'ichigo-translate-page';

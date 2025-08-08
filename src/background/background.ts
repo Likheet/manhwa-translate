@@ -9,9 +9,9 @@ import {
 } from '../utils/chromeApi';
 import { appConfig } from '../utils/appConfig';
 import { debug } from '../utils/ichigoApi';
-import { translate } from './translateWithScaling';
-import { initContextMenus } from './background/contextMenus';
-import { fastHash } from './utils/fastHash';
+import { translate } from '../content/translateWithScaling';
+import { initContextMenus } from './contextMenus';
+import { fastHash } from '../content/utils/fastHash';
 
 initContextMenus();
 

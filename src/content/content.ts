@@ -16,12 +16,12 @@ import {
 } from './utils/translationUtils';
 import { fitText } from './utils/fitText';
 import { sleepMs } from './utils/utils';
-import { bangersRegular } from './embeddedFonts/bangersRegular';
-import { kalam } from './embeddedFonts/kalam';
-import { komikaJam } from './embeddedFonts/komikaJam';
-import { komikaSlim } from './embeddedFonts/komikaSlim';
-import { vtcLettererPro } from './embeddedFonts/vtcLettererPro';
-import { ccWildWords } from './embeddedFonts/ccWildWords';
+import { bangersRegular } from '../embeddedFonts/bangersRegular';
+import { kalam } from '../embeddedFonts/kalam';
+import { komikaJam } from '../embeddedFonts/komikaJam';
+import { komikaSlim } from '../embeddedFonts/komikaSlim';
+import { vtcLettererPro } from '../embeddedFonts/vtcLettererPro';
+import { ccWildWords } from '../embeddedFonts/ccWildWords';
 import { getOriginalFontSize } from './utils/getOriginalFontSize';
 import {
 	checkIsBgImageElement,

@@ -1,13 +1,32 @@
 {
   "name": "manga-translator-recovery",
   "version": "1.0.0",
-  "description": "",
+  "description": "Manga Translator Chrome Extension - Reverse Engineered",
   "main": "index.js",
   "scripts": {
+    "build": "tsc && npm run copy-assets",
+    "copy-assets": "powershell -Command \"Copy-Item 'src/popup/*.html' 'build/' -Force; Copy-Item 'manifest.json' 'build/' -Force; Copy-Item '_locales' 'build/_locales' -Recurse -Force; Copy-Item 'fonts' 'build/fonts' -Recurse -Force; Copy-Item 'icons' 'build/icons' -Recurse -Force\"",
+    "dev": "tsc --watch",
+    "clean": "rimraf build",
+    "package": "npm run clean && npm run build && powershell -Command \"Compress-Archive -Path 'build/*' -DestinationPath 'manga-translator-extension.zip' -Force\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "chrome-extension",
+    "manga",
+    "translator",
+    "manga-translator"
+  ],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "@types/uuid": "^10.0.0",
+    "rimraf": "^5.0.10",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
 }

@@ -1,10 +1,10 @@
-import { bangersRegular } from '../embeddedFonts/bangersRegular';
-import { ccWildWords } from '../embeddedFonts/ccWildWords';
-import { kalam } from '../embeddedFonts/kalam';
-import { komikaJam } from '../embeddedFonts/komikaJam';
-import { komikaSlim } from '../embeddedFonts/komikaSlim';
-import { patrickHand } from '../embeddedFonts/patrickHand';
-import { vtcLettererPro } from '../embeddedFonts/vtcLettererPro';
+import { bangersRegular } from '../../embeddedFonts/bangersRegular';
+import { ccWildWords } from '../../embeddedFonts/ccWildWords';
+import { kalam } from '../../embeddedFonts/kalam';
+import { komikaJam } from '../../embeddedFonts/komikaJam';
+import { komikaSlim } from '../../embeddedFonts/komikaSlim';
+import { patrickHand } from '../../embeddedFonts/patrickHand';
+import { vtcLettererPro } from '../../embeddedFonts/vtcLettererPro';
 
 export function ensureStylesInjected(shadowDom: ShadowRoot | null): void {
 	if (shadowDom == null || shadowDom.host == null) {

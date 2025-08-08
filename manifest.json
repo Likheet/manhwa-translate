@@ -4,11 +4,11 @@
       "default_popup": "popup.html"
    },
    "background": {
-      "service_worker": "js/background.js"
+      "service_worker": "js/background/background.js"
    },
    "content_scripts": [ {
       "all_frames": true,
-      "js": [ "js/content.js", "js/setExtensionIcon.js" ],
+      "js": [ "js/content/content.js", "js/content/setExtensionIcon.js" ],
       "matches": [ "\u003Call_urls>" ]
    } ],
    "content_security_policy": {
