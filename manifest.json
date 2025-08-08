@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": "icons/128x128-disabled.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/content.js", "js/setExtensionIcon.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; script-src-elem 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "https://mangatranslator.ai",
+   "host_permissions": [ "http://localhost/*", "https://ichigoreader.com/*", "*://*/*", "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/128x128.png",
+      "16": "icons/16x16.png",
+      "19": "icons/19x19.png",
+      "48": "icons/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhSzsUpYtslAR4l4cl/JMcma/N9aBj0ITaf04m8Gwi0qZWIxsTqVrLsCFUeGcWmFDP723x57TMtQa6JoNN42SDbPcz6R9YCbhxqQ7Y2Q+ONVQx/db7BcFtnJETFuNQX+bPRtgnicK+vBrkL74EH6Xl2ab8rSMCypoQXQSkJ1iuzK9TAHvX/d3OdfsLNFJsdLWIdYMGt8LSEmlEGG2xxZL9CIBZQCk+0aRrf6YnAtGBR/Qsggryfeg7Jx/7k344oqaQAfm0sT452vTxhBN1/fUdWaEImYr965gsqjr6B5fzmAyW+7qlycWh5xNZoNDBCitQ671unesJJig45pCLuvV9QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "contextMenus", "scripting", "storage", "tabs", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.77",
+   "web_accessible_resources": [ {
+      "extension_ids": [  ],
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "fonts/*", "icons/*" ]
+   } ]
+}

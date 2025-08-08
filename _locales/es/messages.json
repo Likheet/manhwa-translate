@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "cargando"
+   },
+   "changeSiteAccessButton": {
+      "message": "cambiar acceso al sitio"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Verifica tu conexión a internet."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (bloqueado: nivel 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (bloqueado: nivel 1)"
+   },
+   "downloadButton": {
+      "message": "descargar"
+   },
+   "emailInputPlaceholder": {
+      "message": "correo electrónico"
+   },
+   "emailNotFoundMessage": {
+      "message": "Este correo electrónico no está registrado."
+   },
+   "emailTakenMessage": {
+      "message": "El correo electrónico ya está en uso."
+   },
+   "extDescription": {
+      "message": "Traductor de manga para japonés, coreano y chino"
+   },
+   "extName": {
+      "message": "Traductor de Manga🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Alimenta a los hámsters del servidor."
+   },
+   "fetchErrorMessage": {
+      "message": "Este sitio ha bloqueado extensiones. Desbloquéalo con ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "nivel gratuito"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (bloqueado: nivel 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (bloqueado: nivel 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Contraseña incorrecta."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Por favor, introduce un correo electrónico y una contraseña válidos para registrarte."
+   },
+   "loadingLabel": {
+      "message": "cargando…"
+   },
+   "localFileAccessMessage": {
+      "message": "Para traducir archivos locales, activa `Permitir acceso a URLs de archivos` en la siguiente pantalla. Luego actualiza la página."
+   },
+   "lockedTier1Label": {
+      "message": "(bloqueado: nivel 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(bloqueado: nivel 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "iniciar sesión"
+   },
+   "logInButton": {
+      "message": "iniciar sesión"
+   },
+   "logOutButton": {
+      "message": "cerrar sesión"
+   },
+   "mangaFontColorLabel": {
+      "message": "color de fuente de manga"
+   },
+   "mangaFontStyleLabel": {
+      "message": "estilo de fuente de manga"
+   },
+   "otherToolsLabel": {
+      "message": "otras herramientas"
+   },
+   "passwordInputPlaceholder": {
+      "message": "contraseña"
+   },
+   "rateButton": {
+      "message": "calificar"
+   },
+   "registerButton": {
+      "message": "registrarse"
+   },
+   "resetPasswordLink": {
+      "message": "restablecer contraseña"
+   },
+   "selectModelLabel": {
+      "message": "seleccionar traductor"
+   },
+   "serverConnectFailureMessage": {
+      "message": "No se pudo conectar al servidor"
+   },
+   "serverDownMessage": {
+      "message": "El servidor está en mantenimiento temporal o tiene problemas."
+   },
+   "settingsBottomNavButton": {
+      "message": "configuración"
+   },
+   "settingsButton": {
+      "message": "configuración"
+   },
+   "siteAccessError": {
+      "message": "Por favor, establece el acceso al sitio en \"En todos los sitios\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Establece `Acceso al sitio` en `En todos los sitios` o la extensión no podrá traducir."
+   },
+   "tier1SupporterLabel": {
+      "message": "colaborador nivel 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "colaborador nivel 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Alternar traducciones"
+   },
+   "toolsBottomNavButton": {
+      "message": "herramientas"
+   },
+   "translateTabToggleLabel": {
+      "message": "traducir pestaña"
+   },
+   "translateToArabicLabel": {
+      "message": "Árabe"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Portugués Brasileño"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Chino Simplificado"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Chino Tradicional"
+   },
+   "translateToEnglishLabel": {
+      "message": "Inglés"
+   },
+   "translateToFrenchLabel": {
+      "message": "Francés"
+   },
+   "translateToGermanLabel": {
+      "message": "Alemán"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonesio"
+   },
+   "translateToItalianLabel": {
+      "message": "Italiano"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Japonés"
+   },
+   "translateToKoreanLabel": {
+      "message": "Coreano"
+   },
+   "translateToLabel": {
+      "message": "traducir a"
+   },
+   "translateToPolishLabel": {
+      "message": "Polaco"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Portugués"
+   },
+   "translateToRussianLabel": {
+      "message": "Ruso"
+   },
+   "translateToSpanishLabel": {
+      "message": "Español"
+   },
+   "translateToThaiLabel": {
+      "message": "Tailandés"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnamita"
+   },
+   "translationModel": {
+      "message": "traductor"
+   },
+   "translationPanelInstructions": {
+      "message": "Haz clic y arrastra para crear un Panel de Traducción.\n Todas las imágenes debajo se traducirán automáticamente.\n ¡Cubre TODA la imagen, no solo los globos de texto!\n Se debe usar un zoom del navegador y del sistema operativo al 100%."
+   },
+   "translationPanelLabel": {
+      "message": "panel de traducción"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Ocurrió un error desconocido. Verifica tu conexión a internet e inténtalo de nuevo en breve."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Desbloquear traducciones ilimitadas"
+   },
+   "upgradeButton": {
+      "message": "mejorar"
+   },
+   "uploadFilesLabel": {
+      "message": "o %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "subir archivos"
+   }
+}

@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "加载中"
+   },
+   "changeSiteAccessButton": {
+      "message": "更改网站访问权限"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "请检查您的网络连接。"
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL（已锁定：一级）"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3（已锁定：一级）"
+   },
+   "downloadButton": {
+      "message": "下载"
+   },
+   "emailInputPlaceholder": {
+      "message": "邮箱"
+   },
+   "emailNotFoundMessage": {
+      "message": "该邮箱未注册。"
+   },
+   "emailTakenMessage": {
+      "message": "该邮箱已被注册。"
+   },
+   "extDescription": {
+      "message": "支持日语、韩语和中文的漫画翻译器"
+   },
+   "extName": {
+      "message": "漫画翻译器🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "喂服务器仓鼠。"
+   },
+   "fetchErrorMessage": {
+      "message": "该网站已屏蔽扩展程序。请使用 ichigo unlocker 解锁。"
+   },
+   "freeTierLabel": {
+      "message": "免费版"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0（已锁定：一级）"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o（已锁定：二级）"
+   },
+   "incorrectPasswordMessage": {
+      "message": "密码错误。"
+   },
+   "invalidRegistrationMessage": {
+      "message": "请输入有效的邮箱和密码以注册。"
+   },
+   "loadingLabel": {
+      "message": "加载中…"
+   },
+   "localFileAccessMessage": {
+      "message": "要翻译本地文件，请在以下页面中切换“允许访问文件网址”。然后刷新页面。"
+   },
+   "lockedTier1Label": {
+      "message": "（已锁定：一级）"
+   },
+   "lockedTier2Label": {
+      "message": "（已锁定：二级）"
+   },
+   "logInBottomNavButton": {
+      "message": "登录"
+   },
+   "logInButton": {
+      "message": "登录"
+   },
+   "logOutButton": {
+      "message": "登出"
+   },
+   "mangaFontColorLabel": {
+      "message": "漫画字体颜色"
+   },
+   "mangaFontStyleLabel": {
+      "message": "漫画字体样式"
+   },
+   "otherToolsLabel": {
+      "message": "其他工具"
+   },
+   "passwordInputPlaceholder": {
+      "message": "密码"
+   },
+   "rateButton": {
+      "message": "评分"
+   },
+   "registerButton": {
+      "message": "注册"
+   },
+   "resetPasswordLink": {
+      "message": "重置密码"
+   },
+   "selectModelLabel": {
+      "message": "选择翻译器"
+   },
+   "serverConnectFailureMessage": {
+      "message": "无法连接到服务器"
+   },
+   "serverDownMessage": {
+      "message": "服务器正在临时维护或遇到问题。"
+   },
+   "settingsBottomNavButton": {
+      "message": "设置"
+   },
+   "settingsButton": {
+      "message": "设置"
+   },
+   "siteAccessError": {
+      "message": "请将网站访问权限设置为“在所有网站上”。"
+   },
+   "siteAccessErrorMessage": {
+      "message": "将“网站访问权限”设置为“在所有网站上”，否则扩展程序无法翻译。"
+   },
+   "tier1SupporterLabel": {
+      "message": "一级支持者 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "二级支持者 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "切换翻译"
+   },
+   "toolsBottomNavButton": {
+      "message": "工具"
+   },
+   "translateTabToggleLabel": {
+      "message": "翻译标签页"
+   },
+   "translateToArabicLabel": {
+      "message": "阿拉伯语"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "巴西葡萄牙语"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "简体中文"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "繁體中文"
+   },
+   "translateToEnglishLabel": {
+      "message": "英语"
+   },
+   "translateToFrenchLabel": {
+      "message": "法语"
+   },
+   "translateToGermanLabel": {
+      "message": "德语"
+   },
+   "translateToHindiLabel": {
+      "message": "印地语"
+   },
+   "translateToIndonesianLabel": {
+      "message": "印尼语"
+   },
+   "translateToItalianLabel": {
+      "message": "意大利语"
+   },
+   "translateToJapaneseLabel": {
+      "message": "日语"
+   },
+   "translateToKoreanLabel": {
+      "message": "韩语"
+   },
+   "translateToLabel": {
+      "message": "翻译为"
+   },
+   "translateToPolishLabel": {
+      "message": "波兰语"
+   },
+   "translateToPortugueseLabel": {
+      "message": "葡萄牙语"
+   },
+   "translateToRussianLabel": {
+      "message": "俄语"
+   },
+   "translateToSpanishLabel": {
+      "message": "西班牙语"
+   },
+   "translateToThaiLabel": {
+      "message": "泰语"
+   },
+   "translateToVietnameseLabel": {
+      "message": "越南语"
+   },
+   "translationModel": {
+      "message": "翻译器"
+   },
+   "translationPanelInstructions": {
+      "message": "点击并拖动以创建翻译面板。\n 所有下方的图片将自动翻译。\n 请覆盖整个图片，而不仅仅是文字气泡！\n 请使用100%的浏览器缩放和操作系统缩放。"
+   },
+   "translationPanelLabel": {
+      "message": "翻译面板"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "发生未知错误。请检查您的网络连接并稍后重试。"
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "解锁无限翻译"
+   },
+   "upgradeButton": {
+      "message": "升级"
+   },
+   "uploadFilesLabel": {
+      "message": "或 %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "上传文件"
+   }
+}

@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "読み込み中"
+   },
+   "changeSiteAccessButton": {
+      "message": "サイトアクセスを変更"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "インターネット接続を確認してください。"
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL（ロック中：レベル1）"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3（ロック中：レベル1）"
+   },
+   "downloadButton": {
+      "message": "ダウンロード"
+   },
+   "emailInputPlaceholder": {
+      "message": "メールアドレス"
+   },
+   "emailNotFoundMessage": {
+      "message": "このメールアドレスは登録されていません。"
+   },
+   "emailTakenMessage": {
+      "message": "このメールアドレスは既に使用されています。"
+   },
+   "extDescription": {
+      "message": "日本語、韓国語、中国語のマンガ翻訳ツール"
+   },
+   "extName": {
+      "message": "マンガ翻訳🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "サーバーハムスターにエサをあげてください。"
+   },
+   "fetchErrorMessage": {
+      "message": "このサイトは拡張機能をブロックしています。ichigo unlockerで解除してください。"
+   },
+   "freeTierLabel": {
+      "message": "無料プラン"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0（ロック中：レベル1）"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o（ロック中：レベル2）"
+   },
+   "incorrectPasswordMessage": {
+      "message": "パスワードが間違っています。"
+   },
+   "invalidRegistrationMessage": {
+      "message": "有効なメールアドレスとパスワードを入力して登録してください。"
+   },
+   "loadingLabel": {
+      "message": "読み込み中…"
+   },
+   "localFileAccessMessage": {
+      "message": "ローカルファイルを翻訳するには、次の画面で「ファイルURLへのアクセスを許可」をオンにしてください。その後ページを更新してください。"
+   },
+   "lockedTier1Label": {
+      "message": "（ロック中：レベル1）"
+   },
+   "lockedTier2Label": {
+      "message": "（ロック中：レベル2）"
+   },
+   "logInBottomNavButton": {
+      "message": "ログイン"
+   },
+   "logInButton": {
+      "message": "ログイン"
+   },
+   "logOutButton": {
+      "message": "ログアウト"
+   },
+   "mangaFontColorLabel": {
+      "message": "マンガフォントカラー"
+   },
+   "mangaFontStyleLabel": {
+      "message": "マンガフォントスタイル"
+   },
+   "otherToolsLabel": {
+      "message": "その他のツール"
+   },
+   "passwordInputPlaceholder": {
+      "message": "パスワード"
+   },
+   "rateButton": {
+      "message": "評価する"
+   },
+   "registerButton": {
+      "message": "登録"
+   },
+   "resetPasswordLink": {
+      "message": "パスワードをリセット"
+   },
+   "selectModelLabel": {
+      "message": "翻訳モデルを選択"
+   },
+   "serverConnectFailureMessage": {
+      "message": "サーバーに接続できませんでした"
+   },
+   "serverDownMessage": {
+      "message": "サーバーは一時的なメンテナンス中、または問題が発生しています。"
+   },
+   "settingsBottomNavButton": {
+      "message": "設定"
+   },
+   "settingsButton": {
+      "message": "設定"
+   },
+   "siteAccessError": {
+      "message": "サイトアクセスを「すべてのサイトでオン」に設定してください。"
+   },
+   "siteAccessErrorMessage": {
+      "message": "`サイトアクセス`を`すべてのサイトでオン`に設定しないと翻訳できません。"
+   },
+   "tier1SupporterLabel": {
+      "message": "サポーター レベル1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "サポーター レベル2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "翻訳の切り替え"
+   },
+   "toolsBottomNavButton": {
+      "message": "ツール"
+   },
+   "translateTabToggleLabel": {
+      "message": "翻訳タブ"
+   },
+   "translateToArabicLabel": {
+      "message": "アラビア語"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "ブラジルポルトガル語"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "簡体字中国語"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "繁体字中国語"
+   },
+   "translateToEnglishLabel": {
+      "message": "英語"
+   },
+   "translateToFrenchLabel": {
+      "message": "フランス語"
+   },
+   "translateToGermanLabel": {
+      "message": "ドイツ語"
+   },
+   "translateToHindiLabel": {
+      "message": "ヒンディー語"
+   },
+   "translateToIndonesianLabel": {
+      "message": "インドネシア語"
+   },
+   "translateToItalianLabel": {
+      "message": "イタリア語"
+   },
+   "translateToJapaneseLabel": {
+      "message": "日本語"
+   },
+   "translateToKoreanLabel": {
+      "message": "韓国語"
+   },
+   "translateToLabel": {
+      "message": "翻訳先"
+   },
+   "translateToPolishLabel": {
+      "message": "ポーランド語"
+   },
+   "translateToPortugueseLabel": {
+      "message": "ポルトガル語"
+   },
+   "translateToRussianLabel": {
+      "message": "ロシア語"
+   },
+   "translateToSpanishLabel": {
+      "message": "スペイン語"
+   },
+   "translateToThaiLabel": {
+      "message": "タイ語"
+   },
+   "translateToVietnameseLabel": {
+      "message": "ベトナム語"
+   },
+   "translationModel": {
+      "message": "翻訳モデル"
+   },
+   "translationPanelInstructions": {
+      "message": "クリックしてドラッグし、翻訳パネルを作成してください。\n 下にあるすべての画像が自動的に翻訳されます。\n 吹き出しだけでなく画像全体をカバーしてください！\n ブラウザのズームとOSのズームは100%に設定してください。"
+   },
+   "translationPanelLabel": {
+      "message": "翻訳パネル"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "不明なエラーが発生しました。インターネット接続を確認し、しばらくしてから再試行してください。"
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "無制限翻訳をアンロック"
+   },
+   "upgradeButton": {
+      "message": "アップグレード"
+   },
+   "uploadFilesLabel": {
+      "message": "または %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "ファイルをアップロード"
+   }
+}

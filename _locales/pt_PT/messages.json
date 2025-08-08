@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "a carregar"
+   },
+   "changeSiteAccessButton": {
+      "message": "alterar acesso ao site"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Verifica a tua ligação à internet."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (bloqueado: nível 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (bloqueado: nível 1)"
+   },
+   "downloadButton": {
+      "message": "transferir"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "Este email não está registado."
+   },
+   "emailTakenMessage": {
+      "message": "Email já está em uso."
+   },
+   "extDescription": {
+      "message": "Tradutor de manga para Japonês, Coreano e Chinês"
+   },
+   "extName": {
+      "message": "Tradutor de Manga🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Alimenta os hamsters do servidor."
+   },
+   "fetchErrorMessage": {
+      "message": "Este site bloqueou extensões. Desbloqueia-o com o ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "plano gratuito"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (bloqueado: nível 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (bloqueado: nível 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Palavra-passe incorreta."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Por favor, introduz um email e palavra-passe válidos para te registares."
+   },
+   "loadingLabel": {
+      "message": "a carregar…"
+   },
+   "localFileAccessMessage": {
+      "message": "Para traduzir ficheiros locais, ativa `Permitir acesso a URLs de ficheiros` no ecrã seguinte. Depois atualiza a página."
+   },
+   "lockedTier1Label": {
+      "message": "(bloqueado: nível 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(bloqueado: nível 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "iniciar sessão"
+   },
+   "logInButton": {
+      "message": "iniciar sessão"
+   },
+   "logOutButton": {
+      "message": "terminar sessão"
+   },
+   "mangaFontColorLabel": {
+      "message": "cor da letra do manga"
+   },
+   "mangaFontStyleLabel": {
+      "message": "estilo de letra do manga"
+   },
+   "otherToolsLabel": {
+      "message": "outras ferramentas"
+   },
+   "passwordInputPlaceholder": {
+      "message": "palavra-passe"
+   },
+   "rateButton": {
+      "message": "avaliar"
+   },
+   "registerButton": {
+      "message": "registar"
+   },
+   "resetPasswordLink": {
+      "message": "repor palavra-passe"
+   },
+   "selectModelLabel": {
+      "message": "selecionar tradutor"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Não foi possível ligar ao servidor"
+   },
+   "serverDownMessage": {
+      "message": "O servidor está em manutenção temporária ou com problemas."
+   },
+   "settingsBottomNavButton": {
+      "message": "definições"
+   },
+   "settingsButton": {
+      "message": "definições"
+   },
+   "siteAccessError": {
+      "message": "Por favor, defina o Acesso ao site como \"Em todos os sites\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Define `Acesso ao site` como `Em todos os sites` ou a extensão não poderá traduzir."
+   },
+   "tier1SupporterLabel": {
+      "message": "apoiante nível 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "apoiante nível 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Alternar traduções"
+   },
+   "toolsBottomNavButton": {
+      "message": "ferramentas"
+   },
+   "translateTabToggleLabel": {
+      "message": "traduzir separador"
+   },
+   "translateToArabicLabel": {
+      "message": "Árabe"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Português do Brasil"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Chinês Simplificado"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Chinês Tradicional"
+   },
+   "translateToEnglishLabel": {
+      "message": "Inglês"
+   },
+   "translateToFrenchLabel": {
+      "message": "Francês"
+   },
+   "translateToGermanLabel": {
+      "message": "Alemão"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonésio"
+   },
+   "translateToItalianLabel": {
+      "message": "Italiano"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Japonês"
+   },
+   "translateToKoreanLabel": {
+      "message": "Coreano"
+   },
+   "translateToLabel": {
+      "message": "traduzir para"
+   },
+   "translateToPolishLabel": {
+      "message": "Polaco"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Português"
+   },
+   "translateToRussianLabel": {
+      "message": "Russo"
+   },
+   "translateToSpanishLabel": {
+      "message": "Espanhol"
+   },
+   "translateToThaiLabel": {
+      "message": "Tailandês"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnamita"
+   },
+   "translationModel": {
+      "message": "tradutor"
+   },
+   "translationPanelInstructions": {
+      "message": "Clique e arraste para criar um Painel de Tradução.\n Todas as imagens por baixo serão traduzidas automaticamente.\n Cubra a imagem INTEIRA, não apenas os balões de texto!\n Deve ser usado zoom de 100% no navegador e no sistema operativo."
+   },
+   "translationPanelLabel": {
+      "message": "painel de tradução"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Ocorreu um erro desconhecido. Verifica a tua ligação à internet e tenta novamente em breve."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Desbloquear traduções ilimitadas"
+   },
+   "upgradeButton": {
+      "message": "atualizar"
+   },
+   "uploadFilesLabel": {
+      "message": "ou %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "carregar ficheiros"
+   }
+}

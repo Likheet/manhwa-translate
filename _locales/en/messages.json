@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "loading"
+   },
+   "changeSiteAccessButton": {
+      "message": "change site access"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Check your internet connection."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (locked: tier 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (locked: tier 1)"
+   },
+   "downloadButton": {
+      "message": "download"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "This email is unregistered."
+   },
+   "emailTakenMessage": {
+      "message": "Email is taken."
+   },
+   "extDescription": {
+      "message": "Manga translator for Japanese, Korean, and Chinese"
+   },
+   "extName": {
+      "message": "Manga Translator🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Feed the server hamsters."
+   },
+   "fetchErrorMessage": {
+      "message": "This site has blocked extensions. Unlock it with ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "free tier"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (locked: tier 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (locked: tier 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Incorrect password."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Please enter a valid email and password to register."
+   },
+   "loadingLabel": {
+      "message": "loading…"
+   },
+   "localFileAccessMessage": {
+      "message": "To translate local files, toggle `Allow access to file URLs` in the following screen. Then refresh the page."
+   },
+   "lockedTier1Label": {
+      "message": "(locked: tier 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(locked: tier 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "log in"
+   },
+   "logInButton": {
+      "message": "log in"
+   },
+   "logOutButton": {
+      "message": "log out"
+   },
+   "mangaFontColorLabel": {
+      "message": "manga font color"
+   },
+   "mangaFontStyleLabel": {
+      "message": "manga font style"
+   },
+   "otherToolsLabel": {
+      "message": "other tools"
+   },
+   "passwordInputPlaceholder": {
+      "message": "password"
+   },
+   "rateButton": {
+      "message": "rate"
+   },
+   "registerButton": {
+      "message": "register"
+   },
+   "resetPasswordLink": {
+      "message": "reset password"
+   },
+   "selectModelLabel": {
+      "message": "select translator"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Could not connect to the server"
+   },
+   "serverDownMessage": {
+      "message": "Server is down for temporary maintenance or experiencing issues."
+   },
+   "settingsBottomNavButton": {
+      "message": "settings"
+   },
+   "settingsButton": {
+      "message": "settings"
+   },
+   "siteAccessError": {
+      "message": "Please set Site access to \"On all sites\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Set `Site access` to `On all sites` or extension cannot translate."
+   },
+   "tier1SupporterLabel": {
+      "message": "tier 1 supporter \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "tier 2 supporter \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Toggle translations"
+   },
+   "toolsBottomNavButton": {
+      "message": "tools"
+   },
+   "translateTabToggleLabel": {
+      "message": "translate tab"
+   },
+   "translateToArabicLabel": {
+      "message": "Arabic"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Brazilian Portuguese"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Chinese Simplified"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Chinese Traditional"
+   },
+   "translateToEnglishLabel": {
+      "message": "English"
+   },
+   "translateToFrenchLabel": {
+      "message": "French"
+   },
+   "translateToGermanLabel": {
+      "message": "German"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonesian"
+   },
+   "translateToItalianLabel": {
+      "message": "Italian"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Japanese"
+   },
+   "translateToKoreanLabel": {
+      "message": "Korean"
+   },
+   "translateToLabel": {
+      "message": "translate to"
+   },
+   "translateToPolishLabel": {
+      "message": "Polish"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Portuguese"
+   },
+   "translateToRussianLabel": {
+      "message": "Russian"
+   },
+   "translateToSpanishLabel": {
+      "message": "Spanish"
+   },
+   "translateToThaiLabel": {
+      "message": "Thai"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnamese"
+   },
+   "translationModel": {
+      "message": "translator"
+   },
+   "translationPanelInstructions": {
+      "message": "Click and drag to create a Translation Panel.\n All images underneath will be translated automatically.\n Cover the ENTIRE image not just the text bubbles!\n 100% browser zoom and operating system zoom should be used."
+   },
+   "translationPanelLabel": {
+      "message": "translation panel"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "An unknown error occurred. Check your internet connection and try again shortly."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Unlock unlimited translations"
+   },
+   "upgradeButton": {
+      "message": "upgrade"
+   },
+   "uploadFilesLabel": {
+      "message": "or %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "upload files"
+   }
+}

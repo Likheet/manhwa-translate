@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "Lade"
+   },
+   "changeSiteAccessButton": {
+      "message": "Website-Zugriff ändern"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Überprüfen Sie Ihre Internetverbindung."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (gesperrt: Stufe 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (gesperrt: Stufe 1)"
+   },
+   "downloadButton": {
+      "message": "Herunterladen"
+   },
+   "emailInputPlaceholder": {
+      "message": "E-Mail"
+   },
+   "emailNotFoundMessage": {
+      "message": "Diese E-Mail ist nicht registriert."
+   },
+   "emailTakenMessage": {
+      "message": "E-Mail ist bereits vergeben."
+   },
+   "extDescription": {
+      "message": "Manga-Übersetzer für Japanisch, Koreanisch und Chinesisch"
+   },
+   "extName": {
+      "message": "Manga-Übersetzer🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Füttere die Server-Hamster."
+   },
+   "fetchErrorMessage": {
+      "message": "Diese Seite hat Erweiterungen blockiert. Entsperren Sie sie mit dem Ichigo Unlocker."
+   },
+   "freeTierLabel": {
+      "message": "kostenlose Stufe"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (gesperrt: Stufe 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (gesperrt: Stufe 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Falsches Passwort."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Bitte geben Sie eine gültige E-Mail-Adresse und ein Passwort ein, um sich zu registrieren."
+   },
+   "loadingLabel": {
+      "message": "Lade…"
+   },
+   "localFileAccessMessage": {
+      "message": "Um lokale Dateien zu übersetzen, aktivieren Sie `Zugriff auf Dateiadressen erlauben` im folgenden Bildschirm. Dann laden Sie die Seite neu."
+   },
+   "lockedTier1Label": {
+      "message": "(gesperrt: Stufe 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(gesperrt: Stufe 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "Anmelden"
+   },
+   "logInButton": {
+      "message": "Anmelden"
+   },
+   "logOutButton": {
+      "message": "Abmelden"
+   },
+   "mangaFontColorLabel": {
+      "message": "Manga-Schriftfarbe"
+   },
+   "mangaFontStyleLabel": {
+      "message": "Manga-Schriftstil"
+   },
+   "otherToolsLabel": {
+      "message": "weitere Werkzeuge"
+   },
+   "passwordInputPlaceholder": {
+      "message": "Passwort"
+   },
+   "rateButton": {
+      "message": "bewerten"
+   },
+   "registerButton": {
+      "message": "Registrieren"
+   },
+   "resetPasswordLink": {
+      "message": "Passwort zurücksetzen"
+   },
+   "selectModelLabel": {
+      "message": "Übersetzer auswählen"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Verbindung zum Server konnte nicht hergestellt werden"
+   },
+   "serverDownMessage": {
+      "message": "Server ist vorübergehend wegen Wartung nicht erreichbar oder hat Probleme."
+   },
+   "settingsBottomNavButton": {
+      "message": "Einstellungen"
+   },
+   "settingsButton": {
+      "message": "Einstellungen"
+   },
+   "siteAccessError": {
+      "message": "Bitte setzen Sie den Website-Zugriff auf \"Auf allen Websites\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Setzen Sie `Website-Zugriff` auf `Auf allen Websites`, sonst kann die Erweiterung nicht übersetzen."
+   },
+   "tier1SupporterLabel": {
+      "message": "Stufe 1 Unterstützer \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "Stufe 2 Unterstützer \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Übersetzungen umschalten"
+   },
+   "toolsBottomNavButton": {
+      "message": "Werkzeuge"
+   },
+   "translateTabToggleLabel": {
+      "message": "Übersetzungs-Tab"
+   },
+   "translateToArabicLabel": {
+      "message": "Arabisch"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Brasilianisches Portugiesisch"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Chinesisch (vereinfacht)"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Chinesisch (traditionell)"
+   },
+   "translateToEnglishLabel": {
+      "message": "Englisch"
+   },
+   "translateToFrenchLabel": {
+      "message": "Französisch"
+   },
+   "translateToGermanLabel": {
+      "message": "Deutsch"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonesisch"
+   },
+   "translateToItalianLabel": {
+      "message": "Italienisch"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Japanisch"
+   },
+   "translateToKoreanLabel": {
+      "message": "Koreanisch"
+   },
+   "translateToLabel": {
+      "message": "übersetzen nach"
+   },
+   "translateToPolishLabel": {
+      "message": "Polnisch"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Portugiesisch"
+   },
+   "translateToRussianLabel": {
+      "message": "Russisch"
+   },
+   "translateToSpanishLabel": {
+      "message": "Spanisch"
+   },
+   "translateToThaiLabel": {
+      "message": "Thailändisch"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnamesisch"
+   },
+   "translationModel": {
+      "message": "Übersetzer"
+   },
+   "translationPanelInstructions": {
+      "message": "Klicken und ziehen, um ein Übersetzungsfeld zu erstellen.\n Alle darunter liegenden Bilder werden automatisch übersetzt.\n Decken Sie das GESAMTE Bild ab, nicht nur die Sprechblasen!\n 100% Browser-Zoom und Betriebssystem-Zoom sollten verwendet werden."
+   },
+   "translationPanelLabel": {
+      "message": "Übersetzungsfeld"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Ein unbekannter Fehler ist aufgetreten. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es in Kürze erneut."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Unbegrenzte Übersetzungen freischalten"
+   },
+   "upgradeButton": {
+      "message": "Upgrade"
+   },
+   "uploadFilesLabel": {
+      "message": "oder %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "Dateien hochladen"
+   }
+}

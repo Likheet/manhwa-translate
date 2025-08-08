@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "लोड हो रहा है"
+   },
+   "changeSiteAccessButton": {
+      "message": "साइट एक्सेस बदलें"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "अपना इंटरनेट कनेक्शन जांचें।"
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (लॉक्ड: स्तर 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (लॉक्ड: स्तर 1)"
+   },
+   "downloadButton": {
+      "message": "डाउनलोड करें"
+   },
+   "emailInputPlaceholder": {
+      "message": "ईमेल"
+   },
+   "emailNotFoundMessage": {
+      "message": "यह ईमेल पंजीकृत नहीं है।"
+   },
+   "emailTakenMessage": {
+      "message": "ईमेल पहले से लिया गया है।"
+   },
+   "extDescription": {
+      "message": "जापानी, कोरियाई और चीनी के लिए मंगा अनुवादक"
+   },
+   "extName": {
+      "message": "मंगा अनुवादक🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "सर्वर हैम्स्टर्स को खाना खिलाएं।"
+   },
+   "fetchErrorMessage": {
+      "message": "इस साइट ने एक्सटेंशन को ब्लॉक कर दिया है। इसे इचिगो अनलॉकर से अनलॉक करें।"
+   },
+   "freeTierLabel": {
+      "message": "मुफ्त स्तर"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (लॉक्ड: स्तर 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o मिनी"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (लॉक्ड: स्तर 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "गलत पासवर्ड।"
+   },
+   "invalidRegistrationMessage": {
+      "message": "कृपया पंजीकरण के लिए एक मान्य ईमेल और पासवर्ड दर्ज करें।"
+   },
+   "loadingLabel": {
+      "message": "लोड हो रहा है…"
+   },
+   "localFileAccessMessage": {
+      "message": "स्थानीय फ़ाइलों का अनुवाद करने के लिए, अगली स्क्रीन में `फ़ाइल URL तक पहुंच की अनुमति दें` टॉगल करें। फिर पृष्ठ को रीफ्रेश करें।"
+   },
+   "lockedTier1Label": {
+      "message": "(लॉक्ड: स्तर 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(लॉक्ड: स्तर 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "लॉग इन करें"
+   },
+   "logInButton": {
+      "message": "लॉग इन करें"
+   },
+   "logOutButton": {
+      "message": "लॉग आउट करें"
+   },
+   "mangaFontColorLabel": {
+      "message": "मंगा फ़ॉन्ट रंग"
+   },
+   "mangaFontStyleLabel": {
+      "message": "मंगा फ़ॉन्ट शैली"
+   },
+   "otherToolsLabel": {
+      "message": "अन्य उपकरण"
+   },
+   "passwordInputPlaceholder": {
+      "message": "पासवर्ड"
+   },
+   "rateButton": {
+      "message": "रेट करें"
+   },
+   "registerButton": {
+      "message": "रजिस्टर करें"
+   },
+   "resetPasswordLink": {
+      "message": "पासवर्ड रीसेट करें"
+   },
+   "selectModelLabel": {
+      "message": "अनुवादक चुनें"
+   },
+   "serverConnectFailureMessage": {
+      "message": "सर्वर से कनेक्ट नहीं हो सका"
+   },
+   "serverDownMessage": {
+      "message": "सर्वर अस्थायी रखरखाव में है या समस्या का सामना कर रहा है।"
+   },
+   "settingsBottomNavButton": {
+      "message": "सेटिंग्स"
+   },
+   "settingsButton": {
+      "message": "सेटिंग्स"
+   },
+   "siteAccessError": {
+      "message": "कृपया साइट एक्सेस को \"सभी साइटों पर\" पर सेट करें।"
+   },
+   "siteAccessErrorMessage": {
+      "message": "`साइट एक्सेस` को `सभी साइटों पर` पर सेट करें अन्यथा एक्सटेंशन अनुवाद नहीं कर पाएगा।"
+   },
+   "tier1SupporterLabel": {
+      "message": "स्तर 1 समर्थक \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "स्तर 2 समर्थक \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "अनुवाद टॉगल करें"
+   },
+   "toolsBottomNavButton": {
+      "message": "उपकरण"
+   },
+   "translateTabToggleLabel": {
+      "message": "अनुवाद टैब"
+   },
+   "translateToArabicLabel": {
+      "message": "अरबी"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "ब्राज़ीली पुर्तगाली"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "सरलीकृत चीनी"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "परंपरागत चीनी"
+   },
+   "translateToEnglishLabel": {
+      "message": "अंग्रेज़ी"
+   },
+   "translateToFrenchLabel": {
+      "message": "फ्रेंच"
+   },
+   "translateToGermanLabel": {
+      "message": "जर्मन"
+   },
+   "translateToHindiLabel": {
+      "message": "हिंदी"
+   },
+   "translateToIndonesianLabel": {
+      "message": "इंडोनेशियाई"
+   },
+   "translateToItalianLabel": {
+      "message": "इतालवी"
+   },
+   "translateToJapaneseLabel": {
+      "message": "जापानी"
+   },
+   "translateToKoreanLabel": {
+      "message": "कोरियाई"
+   },
+   "translateToLabel": {
+      "message": "अनुवाद करें"
+   },
+   "translateToPolishLabel": {
+      "message": "पोलिश"
+   },
+   "translateToPortugueseLabel": {
+      "message": "पुर्तगाली"
+   },
+   "translateToRussianLabel": {
+      "message": "रूसी"
+   },
+   "translateToSpanishLabel": {
+      "message": "स्पेनिश"
+   },
+   "translateToThaiLabel": {
+      "message": "थाई"
+   },
+   "translateToVietnameseLabel": {
+      "message": "वियतनामी"
+   },
+   "translationModel": {
+      "message": "अनुवादक"
+   },
+   "translationPanelInstructions": {
+      "message": "अनुवाद पैनल बनाने के लिए क्लिक करें और खींचें।\n नीचे की सभी छवियों का स्वतः अनुवाद किया जाएगा।\n पूरी छवि को कवर करें, केवल टेक्स्ट बबल्स को नहीं!\n 100% ब्राउज़र ज़ूम और ऑपरेटिंग सिस्टम ज़ूम का उपयोग करें।"
+   },
+   "translationPanelLabel": {
+      "message": "अनुवाद पैनल"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "एक अज्ञात त्रुटि हुई। अपना इंटरनेट कनेक्शन जांचें और थोड़ी देर बाद पुनः प्रयास करें।"
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "असीमित अनुवाद अनलॉक करें"
+   },
+   "upgradeButton": {
+      "message": "अपग्रेड करें"
+   },
+   "uploadFilesLabel": {
+      "message": "या %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "फ़ाइलें अपलोड करें"
+   }
+}

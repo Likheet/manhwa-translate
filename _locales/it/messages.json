@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "caricamento"
+   },
+   "changeSiteAccessButton": {
+      "message": "cambia accesso al sito"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Controlla la tua connessione internet."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (bloccato: livello 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (bloccato: livello 1)"
+   },
+   "downloadButton": {
+      "message": "scarica"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "Questa email non è registrata."
+   },
+   "emailTakenMessage": {
+      "message": "Email già in uso."
+   },
+   "extDescription": {
+      "message": "Traduttore di manga per giapponese, coreano e cinese"
+   },
+   "extName": {
+      "message": "Traduttore Manga🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Dai da mangiare ai criceti del server."
+   },
+   "fetchErrorMessage": {
+      "message": "Questo sito ha bloccato le estensioni. Sblocalo con ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "livello gratuito"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (bloccato: livello 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (bloccato: livello 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Password errata."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Inserisci un'email e una password valide per registrarti."
+   },
+   "loadingLabel": {
+      "message": "caricamento…"
+   },
+   "localFileAccessMessage": {
+      "message": "Per tradurre file locali, attiva `Consenti accesso agli URL dei file` nella schermata seguente. Poi aggiorna la pagina."
+   },
+   "lockedTier1Label": {
+      "message": "(bloccato: livello 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(bloccato: livello 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "accedi"
+   },
+   "logInButton": {
+      "message": "accedi"
+   },
+   "logOutButton": {
+      "message": "esci"
+   },
+   "mangaFontColorLabel": {
+      "message": "colore font manga"
+   },
+   "mangaFontStyleLabel": {
+      "message": "stile font manga"
+   },
+   "otherToolsLabel": {
+      "message": "altri strumenti"
+   },
+   "passwordInputPlaceholder": {
+      "message": "password"
+   },
+   "rateButton": {
+      "message": "valuta"
+   },
+   "registerButton": {
+      "message": "registrati"
+   },
+   "resetPasswordLink": {
+      "message": "reimposta password"
+   },
+   "selectModelLabel": {
+      "message": "seleziona traduttore"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Impossibile connettersi al server"
+   },
+   "serverDownMessage": {
+      "message": "Il server è in manutenzione temporanea o sta riscontrando problemi."
+   },
+   "settingsBottomNavButton": {
+      "message": "impostazioni"
+   },
+   "settingsButton": {
+      "message": "impostazioni"
+   },
+   "siteAccessError": {
+      "message": "Imposta l'accesso al sito su \"Su tutti i siti\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Imposta `Accesso al sito` su `Su tutti i siti` altrimenti l'estensione non può tradurre."
+   },
+   "tier1SupporterLabel": {
+      "message": "sostenitore livello 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "sostenitore livello 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Attiva/disattiva traduzioni"
+   },
+   "toolsBottomNavButton": {
+      "message": "strumenti"
+   },
+   "translateTabToggleLabel": {
+      "message": "scheda traduzione"
+   },
+   "translateToArabicLabel": {
+      "message": "Arabo"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Portoghese brasiliano"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Cinese semplificato"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Cinese tradizionale"
+   },
+   "translateToEnglishLabel": {
+      "message": "Inglese"
+   },
+   "translateToFrenchLabel": {
+      "message": "Francese"
+   },
+   "translateToGermanLabel": {
+      "message": "Tedesco"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonesiano"
+   },
+   "translateToItalianLabel": {
+      "message": "Italiano"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Giapponese"
+   },
+   "translateToKoreanLabel": {
+      "message": "Coreano"
+   },
+   "translateToLabel": {
+      "message": "traduci in"
+   },
+   "translateToPolishLabel": {
+      "message": "Polacco"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Portoghese"
+   },
+   "translateToRussianLabel": {
+      "message": "Russo"
+   },
+   "translateToSpanishLabel": {
+      "message": "Spagnolo"
+   },
+   "translateToThaiLabel": {
+      "message": "Tailandese"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnamita"
+   },
+   "translationModel": {
+      "message": "traduttore"
+   },
+   "translationPanelInstructions": {
+      "message": "Fai clic e trascina per creare un Pannello di Traduzione.\n Tutte le immagini sottostanti verranno tradotte automaticamente.\n Copri l'INTERA immagine, non solo i fumetti!\n Utilizza lo zoom del browser e del sistema operativo al 100%."
+   },
+   "translationPanelLabel": {
+      "message": "pannello di traduzione"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Si è verificato un errore sconosciuto. Controlla la connessione internet e riprova tra poco."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Sblocca traduzioni illimitate"
+   },
+   "upgradeButton": {
+      "message": "aggiorna"
+   },
+   "uploadFilesLabel": {
+      "message": "oppure %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "carica file"
+   }
+}

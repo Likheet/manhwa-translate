@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "memuat"
+   },
+   "changeSiteAccessButton": {
+      "message": "ubah akses situs"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Periksa koneksi internet Anda."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (terkunci: tingkat 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (terkunci: tingkat 1)"
+   },
+   "downloadButton": {
+      "message": "unduh"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "Email ini belum terdaftar."
+   },
+   "emailTakenMessage": {
+      "message": "Email sudah digunakan."
+   },
+   "extDescription": {
+      "message": "Penerjemah manga untuk bahasa Jepang, Korea, dan Tionghoa"
+   },
+   "extName": {
+      "message": "Penerjemah Manga🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Beri makan hamster server."
+   },
+   "fetchErrorMessage": {
+      "message": "Situs ini memblokir ekstensi. Buka dengan ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "tingkat gratis"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (terkunci: tingkat 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (terkunci: tingkat 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Kata sandi salah."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Silakan masukkan email dan kata sandi yang valid untuk mendaftar."
+   },
+   "loadingLabel": {
+      "message": "memuat…"
+   },
+   "localFileAccessMessage": {
+      "message": "Untuk menerjemahkan berkas lokal, aktifkan `Izinkan akses ke URL berkas` di layar berikut. Lalu muat ulang halaman."
+   },
+   "lockedTier1Label": {
+      "message": "(terkunci: tingkat 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(terkunci: tingkat 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "masuk"
+   },
+   "logInButton": {
+      "message": "masuk"
+   },
+   "logOutButton": {
+      "message": "keluar"
+   },
+   "mangaFontColorLabel": {
+      "message": "warna font manga"
+   },
+   "mangaFontStyleLabel": {
+      "message": "gaya font manga"
+   },
+   "otherToolsLabel": {
+      "message": "alat lainnya"
+   },
+   "passwordInputPlaceholder": {
+      "message": "kata sandi"
+   },
+   "rateButton": {
+      "message": "beri nilai"
+   },
+   "registerButton": {
+      "message": "daftar"
+   },
+   "resetPasswordLink": {
+      "message": "atur ulang kata sandi"
+   },
+   "selectModelLabel": {
+      "message": "pilih penerjemah"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Tidak dapat terhubung ke server"
+   },
+   "serverDownMessage": {
+      "message": "Server sedang dalam pemeliharaan sementara atau mengalami masalah."
+   },
+   "settingsBottomNavButton": {
+      "message": "pengaturan"
+   },
+   "settingsButton": {
+      "message": "pengaturan"
+   },
+   "siteAccessError": {
+      "message": "Silakan atur Akses Situs ke \"Di semua situs\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Atur `Akses Situs` ke `Di semua situs` atau ekstensi tidak dapat menerjemahkan."
+   },
+   "tier1SupporterLabel": {
+      "message": "pendukung tingkat 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "pendukung tingkat 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Alihkan terjemahan"
+   },
+   "toolsBottomNavButton": {
+      "message": "alat"
+   },
+   "translateTabToggleLabel": {
+      "message": "tab terjemahan"
+   },
+   "translateToArabicLabel": {
+      "message": "Arab"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "Portugis Brasil"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "Tionghoa Sederhana"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "Tionghoa Tradisional"
+   },
+   "translateToEnglishLabel": {
+      "message": "Inggris"
+   },
+   "translateToFrenchLabel": {
+      "message": "Prancis"
+   },
+   "translateToGermanLabel": {
+      "message": "Jerman"
+   },
+   "translateToHindiLabel": {
+      "message": "Hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "Indonesia"
+   },
+   "translateToItalianLabel": {
+      "message": "Italia"
+   },
+   "translateToJapaneseLabel": {
+      "message": "Jepang"
+   },
+   "translateToKoreanLabel": {
+      "message": "Korea"
+   },
+   "translateToLabel": {
+      "message": "terjemahkan ke"
+   },
+   "translateToPolishLabel": {
+      "message": "Polandia"
+   },
+   "translateToPortugueseLabel": {
+      "message": "Portugis"
+   },
+   "translateToRussianLabel": {
+      "message": "Rusia"
+   },
+   "translateToSpanishLabel": {
+      "message": "Spanyol"
+   },
+   "translateToThaiLabel": {
+      "message": "Thailand"
+   },
+   "translateToVietnameseLabel": {
+      "message": "Vietnam"
+   },
+   "translationModel": {
+      "message": "penerjemah"
+   },
+   "translationPanelInstructions": {
+      "message": "Klik dan seret untuk membuat Panel Terjemahan.\n Semua gambar di bawahnya akan diterjemahkan secara otomatis.\n Tutupi SELURUH gambar, bukan hanya gelembung teks!\n Gunakan zoom browser dan sistem operasi 100%."
+   },
+   "translationPanelLabel": {
+      "message": "panel terjemahan"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Terjadi kesalahan yang tidak diketahui. Periksa koneksi internet Anda dan coba lagi sebentar lagi."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Buka kunci terjemahan tanpa batas"
+   },
+   "upgradeButton": {
+      "message": "tingkatkan"
+   },
+   "uploadFilesLabel": {
+      "message": "atau %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "unggah berkas"
+   }
+}

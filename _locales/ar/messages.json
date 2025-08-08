@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "جارٍ التحميل"
+   },
+   "changeSiteAccessButton": {
+      "message": "تغيير وصول الموقع"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "تحقق من اتصال الإنترنت الخاص بك."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (مقفل: المستوى 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (مقفل: المستوى 1)"
+   },
+   "downloadButton": {
+      "message": "تحميل"
+   },
+   "emailInputPlaceholder": {
+      "message": "البريد الإلكتروني"
+   },
+   "emailNotFoundMessage": {
+      "message": "هذا البريد الإلكتروني غير مسجل."
+   },
+   "emailTakenMessage": {
+      "message": "البريد الإلكتروني مستخدم بالفعل."
+   },
+   "extDescription": {
+      "message": "مترجم مانجا للغة اليابانية والكورية والصينية"
+   },
+   "extName": {
+      "message": "مترجم المانجا🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "أطعم هامسترات الخادم."
+   },
+   "fetchErrorMessage": {
+      "message": "هذا الموقع قام بحظر الإضافات. قم بفتحه باستخدام ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "الخطة المجانية"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (مقفل: المستوى 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (مقفل: المستوى 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "كلمة المرور غير صحيحة."
+   },
+   "invalidRegistrationMessage": {
+      "message": "يرجى إدخال بريد إلكتروني وكلمة مرور صالحين للتسجيل."
+   },
+   "loadingLabel": {
+      "message": "جارٍ التحميل…"
+   },
+   "localFileAccessMessage": {
+      "message": "لترجمة الملفات المحلية، فعّل `السماح بالوصول إلى عناوين ملفات` في الشاشة التالية. ثم قم بتحديث الصفحة."
+   },
+   "lockedTier1Label": {
+      "message": "(مقفل: المستوى 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(مقفل: المستوى 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "تسجيل الدخول"
+   },
+   "logInButton": {
+      "message": "تسجيل الدخول"
+   },
+   "logOutButton": {
+      "message": "تسجيل الخروج"
+   },
+   "mangaFontColorLabel": {
+      "message": "لون خط المانجا"
+   },
+   "mangaFontStyleLabel": {
+      "message": "نمط خط المانجا"
+   },
+   "otherToolsLabel": {
+      "message": "أدوات أخرى"
+   },
+   "passwordInputPlaceholder": {
+      "message": "كلمة المرور"
+   },
+   "rateButton": {
+      "message": "قيّم"
+   },
+   "registerButton": {
+      "message": "تسجيل"
+   },
+   "resetPasswordLink": {
+      "message": "إعادة تعيين كلمة المرور"
+   },
+   "selectModelLabel": {
+      "message": "اختر المترجم"
+   },
+   "serverConnectFailureMessage": {
+      "message": "تعذر الاتصال بالخادم"
+   },
+   "serverDownMessage": {
+      "message": "الخادم غير متاح مؤقتًا للصيانة أو يواجه مشاكل."
+   },
+   "settingsBottomNavButton": {
+      "message": "الإعدادات"
+   },
+   "settingsButton": {
+      "message": "الإعدادات"
+   },
+   "siteAccessError": {
+      "message": "يرجى ضبط الوصول إلى الموقع على \"في جميع المواقع\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "قم بضبط `وصول الموقع` إلى `في جميع المواقع` وإلا فلن تتمكن الإضافة من الترجمة."
+   },
+   "tier1SupporterLabel": {
+      "message": "الداعم المستوى 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "الداعم المستوى 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "تبديل الترجمة"
+   },
+   "toolsBottomNavButton": {
+      "message": "أدوات"
+   },
+   "translateTabToggleLabel": {
+      "message": "ترجمة التبويب"
+   },
+   "translateToArabicLabel": {
+      "message": "العربية"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "البرتغالية البرازيلية"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "الصينية المبسطة"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "الصينية التقليدية"
+   },
+   "translateToEnglishLabel": {
+      "message": "الإنجليزية"
+   },
+   "translateToFrenchLabel": {
+      "message": "الفرنسية"
+   },
+   "translateToGermanLabel": {
+      "message": "الألمانية"
+   },
+   "translateToHindiLabel": {
+      "message": "الهندية"
+   },
+   "translateToIndonesianLabel": {
+      "message": "الإندونيسية"
+   },
+   "translateToItalianLabel": {
+      "message": "الإيطالية"
+   },
+   "translateToJapaneseLabel": {
+      "message": "اليابانية"
+   },
+   "translateToKoreanLabel": {
+      "message": "الكورية"
+   },
+   "translateToLabel": {
+      "message": "الترجمة إلى"
+   },
+   "translateToPolishLabel": {
+      "message": "البولندية"
+   },
+   "translateToPortugueseLabel": {
+      "message": "البرتغالية"
+   },
+   "translateToRussianLabel": {
+      "message": "الروسية"
+   },
+   "translateToSpanishLabel": {
+      "message": "الإسبانية"
+   },
+   "translateToThaiLabel": {
+      "message": "التايلاندية"
+   },
+   "translateToVietnameseLabel": {
+      "message": "الفيتنامية"
+   },
+   "translationModel": {
+      "message": "المترجم"
+   },
+   "translationPanelInstructions": {
+      "message": "انقر واسحب لإنشاء لوحة الترجمة.\nجميع الصور الموجودة تحتها ستُترجم تلقائيًا.\nقم بتغطية الصورة بالكامل وليس فقط فقاعات النص!\nيجب استخدام تكبير المتصفح ونظام التشغيل بنسبة 100٪."
+   },
+   "translationPanelLabel": {
+      "message": "لوحة الترجمة"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "حدث خطأ غير معروف. تحقق من اتصال الإنترنت وحاول مرة أخرى قريبًا."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "افتح الترجمة غير المحدودة"
+   },
+   "upgradeButton": {
+      "message": "ترقية"
+   },
+   "uploadFilesLabel": {
+      "message": "أو %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "رفع الملفات"
+   }
+}

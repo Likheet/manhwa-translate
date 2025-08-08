@@ -1,0 +1,230 @@
+{
+   "authLoadingMessage": {
+      "message": "ładowanie"
+   },
+   "changeSiteAccessButton": {
+      "message": "zmień dostęp do witryny"
+   },
+   "checkInternetConnectionMessage": {
+      "message": "Sprawdź swoje połączenie internetowe."
+   },
+   "deeplTranslator": {
+      "message": "DeepL"
+   },
+   "deeplTranslatorLocked": {
+      "message": "DeepL (zablokowane: poziom 1)"
+   },
+   "deepseekv3Translator": {
+      "message": "Deepseek v3"
+   },
+   "deepseekv3TranslatorLocked": {
+      "message": "Deepseek v3 (zablokowane: poziom 1)"
+   },
+   "downloadButton": {
+      "message": "pobierz"
+   },
+   "emailInputPlaceholder": {
+      "message": "email"
+   },
+   "emailNotFoundMessage": {
+      "message": "Ten email nie jest zarejestrowany."
+   },
+   "emailTakenMessage": {
+      "message": "Email jest już zajęty."
+   },
+   "extDescription": {
+      "message": "Tłumacz mangi z japońskiego, koreańskiego i chińskiego"
+   },
+   "extName": {
+      "message": "Tłumacz Mang🍓"
+   },
+   "feedServerHamstersMessage": {
+      "message": "Nakarm chomiki serwera."
+   },
+   "fetchErrorMessage": {
+      "message": "Ta strona zablokowała rozszerzenia. Odblokuj ją za pomocą ichigo unlocker."
+   },
+   "freeTierLabel": {
+      "message": "darmowy poziom"
+   },
+   "geminiFlash2Translator": {
+      "message": "Gemini Flash 2.0"
+   },
+   "geminiFlash2TranslatorLocked": {
+      "message": "Gemini Flash 2.0 (zablokowane: poziom 1)"
+   },
+   "gpt4oMiniTranslator": {
+      "message": "GPT-4o mini"
+   },
+   "gpt4oTranslator": {
+      "message": "GPT-4o"
+   },
+   "gpt4oTranslatorLocked": {
+      "message": "GPT-4o (zablokowane: poziom 2)"
+   },
+   "incorrectPasswordMessage": {
+      "message": "Nieprawidłowe hasło."
+   },
+   "invalidRegistrationMessage": {
+      "message": "Wprowadź poprawny email i hasło, aby się zarejestrować."
+   },
+   "loadingLabel": {
+      "message": "ładowanie…"
+   },
+   "localFileAccessMessage": {
+      "message": "Aby tłumaczyć pliki lokalne, włącz `Zezwól na dostęp do adresów URL plików` na poniższym ekranie. Następnie odśwież stronę."
+   },
+   "lockedTier1Label": {
+      "message": "(zablokowane: poziom 1)"
+   },
+   "lockedTier2Label": {
+      "message": "(zablokowane: poziom 2)"
+   },
+   "logInBottomNavButton": {
+      "message": "zaloguj się"
+   },
+   "logInButton": {
+      "message": "zaloguj się"
+   },
+   "logOutButton": {
+      "message": "wyloguj się"
+   },
+   "mangaFontColorLabel": {
+      "message": "kolor czcionki mangi"
+   },
+   "mangaFontStyleLabel": {
+      "message": "styl czcionki mangi"
+   },
+   "otherToolsLabel": {
+      "message": "inne narzędzia"
+   },
+   "passwordInputPlaceholder": {
+      "message": "hasło"
+   },
+   "rateButton": {
+      "message": "oceń"
+   },
+   "registerButton": {
+      "message": "zarejestruj się"
+   },
+   "resetPasswordLink": {
+      "message": "zresetuj hasło"
+   },
+   "selectModelLabel": {
+      "message": "wybierz tłumacza"
+   },
+   "serverConnectFailureMessage": {
+      "message": "Nie udało się połączyć z serwerem"
+   },
+   "serverDownMessage": {
+      "message": "Serwer jest tymczasowo niedostępny lub wystąpiły problemy."
+   },
+   "settingsBottomNavButton": {
+      "message": "ustawienia"
+   },
+   "settingsButton": {
+      "message": "ustawienia"
+   },
+   "siteAccessError": {
+      "message": "Ustaw dostęp do witryny na \"Na wszystkich stronach\"."
+   },
+   "siteAccessErrorMessage": {
+      "message": "Ustaw `Dostęp do witryny` na `Na wszystkich stronach`, inaczej rozszerzenie nie będzie mogło tłumaczyć."
+   },
+   "tier1SupporterLabel": {
+      "message": "wspierający poziom 1 \u003C3"
+   },
+   "tier2SupporterLabel": {
+      "message": "wspierający poziom 2 \u003C3"
+   },
+   "toggleTranslationsContextMenu": {
+      "message": "Przełącz tłumaczenia"
+   },
+   "toolsBottomNavButton": {
+      "message": "narzędzia"
+   },
+   "translateTabToggleLabel": {
+      "message": "przetłumacz kartę"
+   },
+   "translateToArabicLabel": {
+      "message": "arabski"
+   },
+   "translateToBrazilianPortugueseLabel": {
+      "message": "portugalski brazylijski"
+   },
+   "translateToChineseSimplifiedLabel": {
+      "message": "chiński uproszczony"
+   },
+   "translateToChineseTraditionalLabel": {
+      "message": "chiński tradycyjny"
+   },
+   "translateToEnglishLabel": {
+      "message": "angielski"
+   },
+   "translateToFrenchLabel": {
+      "message": "francuski"
+   },
+   "translateToGermanLabel": {
+      "message": "niemiecki"
+   },
+   "translateToHindiLabel": {
+      "message": "hindi"
+   },
+   "translateToIndonesianLabel": {
+      "message": "indonezyjski"
+   },
+   "translateToItalianLabel": {
+      "message": "włoski"
+   },
+   "translateToJapaneseLabel": {
+      "message": "japoński"
+   },
+   "translateToKoreanLabel": {
+      "message": "koreański"
+   },
+   "translateToLabel": {
+      "message": "przetłumacz na"
+   },
+   "translateToPolishLabel": {
+      "message": "polski"
+   },
+   "translateToPortugueseLabel": {
+      "message": "portugalski"
+   },
+   "translateToRussianLabel": {
+      "message": "rosyjski"
+   },
+   "translateToSpanishLabel": {
+      "message": "hiszpański"
+   },
+   "translateToThaiLabel": {
+      "message": "tajski"
+   },
+   "translateToVietnameseLabel": {
+      "message": "wietnamski"
+   },
+   "translationModel": {
+      "message": "tłumacz"
+   },
+   "translationPanelInstructions": {
+      "message": "Kliknij i przeciągnij, aby utworzyć panel tłumaczenia.\n Wszystkie obrazy pod spodem zostaną automatycznie przetłumaczone.\n Zakryj CAŁY obraz, a nie tylko dymki z tekstem!\n Używaj 100% powiększenia przeglądarki i systemu operacyjnego."
+   },
+   "translationPanelLabel": {
+      "message": "panel tłumaczenia"
+   },
+   "unknownRegistrationErrorMessage": {
+      "message": "Wystąpił nieznany błąd. Sprawdź połączenie z internetem i spróbuj ponownie za chwilę."
+   },
+   "unlockUnlimitedTooltip": {
+      "message": "Odblokuj nieograniczone tłumaczenia"
+   },
+   "upgradeButton": {
+      "message": "ulepsz"
+   },
+   "uploadFilesLabel": {
+      "message": "lub %UPLOAD_FILES%"
+   },
+   "uploadFilesText": {
+      "message": "prześlij pliki"
+   }
+}
