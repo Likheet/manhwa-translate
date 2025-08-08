@@ -1,13 +1,14 @@
 {
-  "name": "manga-translator-recovery",
+  "name": "manhwa-translate-local",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite build --watch",
+    "build": "vite build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module"
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@crxjs/vite-plugin": "^1.0.16"
+  }
 }
